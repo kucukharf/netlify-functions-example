@@ -1,0 +1,36 @@
+{
+	"title": "Teb Factoring",
+	"description": "web, mobile, app",
+	"slug": "tebfactoring",
+	"image": "http://localhost:3001/static/promo--teb.jpg",
+	"logo": "http://localhost:3001/static/logo--teb.svg",
+	"brandColor": "#009b7b",
+	"overview":
+		"Factoring transactions are quickly and reliably now with TEB Factoring App. Application allows you to upload your bills and invoices and helps to follow progress with your related uploads",
+	"duration": "2015-2016",
+	"scope": "Web, Mobile, App",
+	"website": "http://tebfaktoring.com.tr",
+	"appstore": "https://itunes.apple.com/tr/app/teb-faktoring/id1011108431",
+	"playstore":
+		"https://play.google.com/store/apps/details?id=com.gricreative.tebFaktoring",
+	"spotTitle":
+		"Application allows you to upload your bills and invoices and helps to follow progress with your related uploads.",
+	"spotDesc":
+		"The end result was a web/mobile app that solved problems of user, and user can apply quicker by using application. It also ended up being a great opportunity to learn new hybrid frameworks such as Cordova, creating f/e structure, and introducing myself to mobile app development.",
+	"related": [
+		{
+			"title": "kepenkmarket",
+			"description": "web, mobile, app",
+			"slug": "kepenkmarket",
+			"brandColor": "#fedd1c",
+			"image": "http://localhost:3001/static/promo--km.jpg"
+		},
+		{
+			"title": "kan.guru",
+			"description": "web, mobile, app",
+			"slug": "kanguru",
+			"brandColor": "#D0021B",
+			"image": "http://localhost:3001/static/promo--kanguru.jpg"
+		}
+	]
+}

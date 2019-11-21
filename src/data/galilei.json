@@ -1,0 +1,33 @@
+{
+	"title": "Cisa",
+	"description": "web, mobile, app",
+	"slug": "cisa",
+	"image": "http://localhost:3001/static/promo--cisa.jpg",
+	"logo": "http://localhost:3001/static/logo--cisa.svg",
+	"brandColor": "#f45813",
+	"overview": "cisa web project description",
+	"duration": "2015-2016",
+	"scope": " Web Application",
+	"stack": " Backbone, Webpack, AMP",
+	"website": "http://www.galileilisesi.k12.tr/",
+	"appstore": null,
+	"playstore": null,
+	"spotTitle": "cisa spot title",
+	"spotDesc": "cisa spot desc",
+	"related": [
+		{
+			"title": "Teb Factoring",
+			"description": "web, mobile, app",
+			"slug": "tebfactoring",
+			"image": "http://localhost:3001/static/promo--teb.jpg",
+			"brandColor": "#009b7b"
+		},
+		{
+			"title": "kepenkmarket",
+			"description": "web, mobile, app",
+			"slug": "kepenkmarket",
+			"brandColor": "#fedd1c",
+			"image": "http://localhost:3001/static/promo--km.jpg"
+		}
+	]
+}

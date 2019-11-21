@@ -1,0 +1,34 @@
+{
+	"title": "kepenkmarket",
+	"description": "web, mobile, app",
+	"slug": "kepenkmarket",
+	"brandColor": "#fedd1c",
+	"theme": "dark",
+	"image": "http://localhost:3001/static/promo--km.jpg",
+	"logo": "http://localhost:3001/static/logo--km.svg",
+	"overview": "kepenkmarket overview",
+	"duration": "2017-present",
+	"scope": "Web, Mobile, App",
+	"stack": "Backbone, Webpack, Cordova",
+	"website": "http://kepenkmarket.com.tr/",
+	"appstore": null,
+	"playstore": null,
+	"spotTitle": "spot title ",
+	"spotDesc": "spot desc",
+	"related": [
+		{
+			"title": "Cisa",
+			"description": "web, mobile, app",
+			"slug": "cisa",
+			"brandColor": "#f45813",
+			"image": "http://localhost:3001/static/promo--cisa.jpg"
+		},
+		{
+			"title": "Teb Factoring",
+			"description": "web, mobile, app",
+			"slug": "tebfactoring",
+			"image": "http://localhost:3001/static/promo--teb.jpg",
+			"brandColor": "#009b7b"
+		}
+	]
+}

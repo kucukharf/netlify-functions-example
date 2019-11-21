@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="153px" height="100px" viewBox="0 0 153 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+    <g id="Splash-Screen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-111.000000, -284.000000)">
+        <g id="logo" transform="translate(111.000000, 284.000000)" fill="#ffffff">
+            <g>
+                
+                <text id="kan.guru" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="24" font-weight="300" letter-spacing="-0.333333343">
+                    <tspan x="37" y="55">kan.</tspan>
+                    <tspan x="79" y="55" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" letter-spacing="-0.055555556">guru</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

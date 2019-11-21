@@ -1,0 +1,33 @@
+{
+	"title": "Reddit.cool",
+	"description": "web, mobile",
+	"slug": "reddit-cool",
+	"image": "http://localhost:3001/static/promo--reddit.jpg",
+	"logo": "http://localhost:3001/static/logo--reddit.svg",
+	"brandColor": "#FF4500",
+	"overview": "reddit.cool web project description",
+	"duration": "2015-2016",
+	"scope": " Web Application",
+	"stack": " React, Webpack",
+	"website": "reddit.cool",
+	"appstore": null,
+	"playstore": null,
+	"spotTitle": "reddit spot title",
+	"spotDesc": "reddit spot desc",
+	"related": [
+		{
+			"title": "Teb Factoring",
+			"description": "web, mobile, app",
+			"slug": "tebfactoring",
+			"image": "http://localhost:3001/static/promo--teb.jpg",
+			"brandColor": "#009b7b"
+		},
+		{
+			"title": "kepenkmarket",
+			"description": "web, mobile, app",
+			"slug": "kepenkmarket",
+			"brandColor": "#fedd1c",
+			"image": "http://localhost:3001/static/promo--km.jpg"
+		}
+	]
+}
